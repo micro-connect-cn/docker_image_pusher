@@ -1,6 +1,8 @@
 mintplexlabs/anythingllm:master
 ghcr.io/open-webui/open-webui:main
 node:22
+node:24-alpine
+nginx:stable-alpine
 nginx
 keycloak/keycloak:latest
 #支持私库
