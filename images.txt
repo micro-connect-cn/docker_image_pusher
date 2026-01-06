@@ -1,3 +1,5 @@
+astral/uv:python3.13-bookworm-slim
+astral/uv:python3.12-bookworm-slim
 nacos/nacos-mcp-router:0.2.2
 nacos/nacos-server:v3.1.1
 python:3.14-slim
