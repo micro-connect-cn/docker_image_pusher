@@ -1,4 +1,5 @@
-eceasy/cli-proxy-api:v6.8.55
+calciumion/new-api:latest
+#eceasy/cli-proxy-api:v6.8.55
 
 #ghcr.io/coleifer/sqlite-web:latest
 #astral/uv:python3.13-bookworm-slim
