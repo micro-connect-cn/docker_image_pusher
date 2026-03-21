@@ -1,3 +1,4 @@
+vimagick/privoxy:latest
 calciumion/new-api:latest
 #eceasy/cli-proxy-api:v6.8.55
 
