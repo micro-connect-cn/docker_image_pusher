@@ -1,4 +1,4 @@
-docker pull ginuerzh/gost:latest
+ginuerzh/gost:latest
 calciumion/new-api:latest
 #eceasy/cli-proxy-api:v6.8.55
 
